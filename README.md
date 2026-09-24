@@ -141,7 +141,7 @@ Niveles: **Usuario / Grupo / Otros**
 15. `whoami` — Mostrar usuario actual.
 16. `history` — Ver historial de comandos.
 ----
-### 📅 Práctica de Laboratorio: Comandos Básicos e Historial (`history`)
+### 📅 TAREA 997: maquina virtual con Linux
 
 **Descripción:** Ejercicio práctico realizado en la terminal de Linux consistente en la ejecución secuencial de 22 comandos para la gestión de archivos, navegación de directorios, edición de texto y consulta del sistema.
 
