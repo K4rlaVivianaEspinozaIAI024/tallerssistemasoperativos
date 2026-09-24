@@ -347,5 +347,9 @@ https://github.com/user-attachments/assets/61400caf-38d3-4ebb-ac62-7b10360cd80d
 
 <img width="971" height="856" alt="image" src="https://github.com/user-attachments/assets/d7f69918-e654-4c05-8d01-c35b1dc0872d" />
 
+----
+### 📅 TAREA 994: Instalar Virtualbox y alguna distribucion de Linux,
+
+<img width="1855" height="802" alt="image" src="https://github.com/user-attachments/assets/9e058e37-c315-4f0e-848c-e71dc952a559" />
 
 
