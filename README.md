@@ -267,4 +267,45 @@ https://github.com/user-attachments/assets/61400caf-38d3-4ebb-ac62-7b10360cd80d
 
 **Descripción:** Desarrollo de un script en Bash
 
+#1
 <img width="1184" height="771" alt="image" src="https://github.com/user-attachments/assets/2a08c6b2-cea3-4257-8dcd-ed1b37b95b95" />
+2
+<img width="1128" height="831" alt="image" src="https://github.com/user-attachments/assets/eb74675d-06e7-4d94-94ee-7be6f415c1de" />
+3
+<img width="1120" height="811" alt="image" src="https://github.com/user-attachments/assets/e8f57135-7a2f-4303-837d-fdff9beac242" />
+
+4
+<img width="1086" height="856" alt="image" src="https://github.com/user-attachments/assets/f8e4cf89-275c-48eb-8cf1-70ac52db245b" />
+
+5
+<img width="1081" height="792" alt="image" src="https://github.com/user-attachments/assets/9956ea4b-482f-4ad9-b7e8-5180d79a5f6f" />
+
+6
+<img width="792" height="828" alt="image" src="https://github.com/user-attachments/assets/02d5cb8b-7534-493e-bf58-0c77d5dee65f" />
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+
+
