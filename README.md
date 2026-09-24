@@ -181,7 +181,30 @@ history
 ![prueba2](https://github.com/user-attachments/assets/821eb202-66e8-4ea3-a4a2-fea7dece377b)
 
 ![prueba4](https://github.com/user-attachments/assets/7a5966c6-ac8a-46e3-b5a1-efb4cefb4266)
+---
+---
 
-![prueba3](https://github.com/user-attachments/assets/932c26c3-cfd5-414c-bf77-865a8d320153)
+### 📅 Tarea #995: Práctica e Introducción a Vim (`Vim Adventures`)
+
+**Descripción:** Ejercicio de aprendizaje interactivo utilizando el entorno de *Vim Adventures* para dominar la navegación y comandos avanzados de movimiento en el editor de texto `vi` / `vim`.
+
+#### 🎯 Aprendizajes Clave
+* **Navegación Básica:** Uso de las teclas `h`, `j`, `k`, `l` para el desplazamiento de cursor.
+* **Movimiento por Palabras:** 
+  * `w`: Avanza al inicio de la siguiente palabra (*word*).
+  * `b`: Retrocede al inicio de la palabra anterior (*word*).
+* **Diferencia Crítica entre `word` y `WORD`:**
+  * Las palabras en minúscula (`w`, `b`) consideran los signos de puntuación y caracteres especiales como delimitadores.
+  * Las palabras en mayúscula (`W`, `B`) consideran como delimitador únicamente los espacios en blanco, permitiendo saltar bloques completos de texto y obstáculos (como el paso de las rocas hacia los cofres).
+
+#### 📸 Evidencias de Progreso
+
+![Evidencia Vim Adventures]
+
+<img width="774" height="506" alt="bim1" src="https://github.com/user-attachments/assets/ab643e18-cd98-46c1-88d4-b601be023532" />
+
+
+> **Nota:** Se completaron los niveles interactivos aplicando comandos de salto rápido y gestión de cursores.
+
 
 
