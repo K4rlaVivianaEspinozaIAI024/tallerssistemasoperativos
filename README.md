@@ -2,8 +2,31 @@
 260301222
 # Bitácora de Clase - Taller de Sistemas Operativos
 
-**Matrícula:** 260301222  
+# 🐧 Taller de Sistemas Operativos
 
+**Estudiante:** Karla Viviana Espinoza Rubio  
+**Matrícula:** 260301222  
+**Institución:** Universidad / Taller de Sistemas Operativos  
+
+---
+
+## 📖 Introducción y Contexto Personal
+
+Bienvenido a mi repositorio de la materia **Taller de Sistemas Operativos**. 
+
+Este espacio funciona como mi **bitácora de clase**, donde documento el aprendizaje, comandos, conceptos teóricos y prácticas realizadas en la terminal de Linux durante el curso.
+
+### Un tedioso Reto Académico
+Adaptarme a esta asignatura ha representado un reto significativo y de gran crecimiento personal por dos razones clave:
+
+1. **Brecha Académica (Gap Year):** Retomé mis estudios universitarios tras un periodo de algunos años fuera del entorno escolar desde que egresé de la preparatoria, por lo que retomar el ritmo de estudio, la lógica de trabajo y el estudio técnico requirió un esfuerzo de adaptación doble.
+2. **Formación Previa Distinta:** En la educación media superior cursé la carrera técnica de **Laboratorista Clínico**, un área totalmente enfocada en las ciencias biológicas y de la salud, ajena al mundo de la informática, las ciencias de la computación o la administración de sistemas.
+
+Afrontar por primera vez conceptos como la **interfaz de línea de comandos (CLI)**, **permisos octales**, **gestión de directorios en Linux** y el control de versiones con **Git y GitHub** implicó romper con mi zona de confort. Sin embargo, a través de la constancia, la toma detallada de apuntes y la práctica constante en laboratorio, he logrado construir una base sólida para entender el funcionamiento interno de los sistemas operativos.
+
+
+
+---
 ---
 
 ## 📌 Bitácora de Clases
