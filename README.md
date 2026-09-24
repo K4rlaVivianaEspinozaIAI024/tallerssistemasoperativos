@@ -172,8 +172,14 @@ netstat --help
 history
 ---
 GALERIA 997
-<img width="627" height="574" alt="prueba" src="https://github.com/user-attachments/assets/20a831a2-c4f6-40cc-a795-7f79b6fdc1c6" />
-<img width="590" height="555" alt="prueba2" src="https://github.com/user-attachments/assets/821eb202-66e8-4ea3-a4a2-fea7dece377b" />
-<img width="637" height="596" alt="prueba4" src="https://github.com/user-attachments/assets/7a5966c6-ac8a-46e3-b5a1-efb4cefb4266" />
-<img width="654" height="583" alt="prueba3" src="https://github.com/user-attachments/assets/932c26c3-cfd5-414c-bf77-865a8d320153" />
+---
 
+### 🖼️ GALERIA 997
+
+![prueba](https://github.com/user-attachments/assets/20a831a2-c4f6-40cc-a795-7f79b6fdc1c6)
+
+![prueba2](https://github.com/user-attachments/assets/821eb202-66e8-4ea3-a4a2-fea7dece377b)
+
+![prueba4](https://github.com/user-attachments/assets/7a5966c6-ac8a-46e3-b5a1-efb4cefb4266)
+
+![prueba3](https://github.com/user-attachments/assets/932c26c3-cfd5-414c-bf77-865a8d320153)
