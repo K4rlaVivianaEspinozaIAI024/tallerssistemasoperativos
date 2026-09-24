@@ -261,4 +261,10 @@ esac
 https://github.com/user-attachments/assets/61400caf-38d3-4ebb-ac62-7b10360cd80d
 
 
+---
 
+### 📅 Tarea #992: Scripts en Bash
+
+**Descripción:** Desarrollo de un script en Bash
+
+<img width="1184" height="771" alt="image" src="https://github.com/user-attachments/assets/2a08c6b2-cea3-4257-8dcd-ed1b37b95b95" />
