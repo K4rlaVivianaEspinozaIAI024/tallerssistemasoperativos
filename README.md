@@ -170,4 +170,8 @@ whoami
 cat test3.txt
 netstat --help
 history
+<img width="637" height="596" alt="prueba4" src="https://github.com/user-attachments/assets/7ed1696e-c43a-4f0d-82c0-2702b40063ee" />
+<img width="654" height="583" alt="prueba3" src="https://github.com/user-attachments/assets/8b961cf3-e809-4b25-8c65-bc61fac9cd28" />
+<img width="590" height="555" alt="prueba2" src="https://github.com/user-attachments/assets/29779337-2926-468f-afc9-a170bd3425e0" />
+<img width="627" height="574" alt="prueba" src="https://github.com/user-attachments/assets/4c46fa2d-ef0c-4866-a547-bf0846526b5d" />
 
