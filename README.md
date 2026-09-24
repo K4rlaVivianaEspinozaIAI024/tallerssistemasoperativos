@@ -140,3 +140,34 @@ Niveles: **Usuario / Grupo / Otros**
 14. `clear` — Limpiar pantalla.
 15. `whoami` — Mostrar usuario actual.
 16. `history` — Ver historial de comandos.
+----
+### 📅 Práctica de Laboratorio: Comandos Básicos e Historial (`history`)
+
+**Descripción:** Ejercicio práctico realizado en la terminal de Linux consistente en la ejecución secuencial de 22 comandos para la gestión de archivos, navegación de directorios, edición de texto y consulta del sistema.
+
+#### 📝 Comandos Ejecutados
+
+```bash
+cd /
+cd $HOME
+pwd
+ls
+touch test.txt
+cp test.txt test2.txt
+mv test2.txt test3.txt
+rm test2.txt
+mkdir prueba
+mv test3.txt prueba/
+cp -r prueba prueba2
+rm -rf prueba
+mv test.txt prueba2/
+cd prueba2
+echo "Hola " > test3.txt
+echo "Mundo" > test4.txt
+cat test3.txt test4.txt > test5.txt
+clear
+whoami
+cat test3.txt
+netstat --help
+history
+
