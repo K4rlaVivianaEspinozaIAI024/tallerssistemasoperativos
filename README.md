@@ -203,8 +203,62 @@ history
 
 <img width="774" height="506" alt="bim1" src="https://github.com/user-attachments/assets/ab643e18-cd98-46c1-88d4-b601be023532" />
 
+---
 
-> **Nota:** Se completaron los niveles interactivos aplicando comandos de salto rápido y gestión de cursores.
+---
+
+### 📅 Tarea #993: Creación de Menú Interactivo y Scripts en Bash
+
+**Descripción:** Desarrollo de un script en Bash que despliega un menú de opciones para ejecutar de forma organizada la creación de un árbol de directorios, un script clásico de "Hola Mundo", un saludo interactivo con variables del sistema y la opción de salida.
+
+#### 💻 Código del Script (`menu.sh`)
+
+```bash
+#!/bin/bash
+
+# Muestra del menú principal de opciones
+echo "=========================================="
+echo "         MENÚ DE OPCIONES BASH            "
+echo "=========================================="
+echo "1) Crear árbol de directorios"
+echo "2) Ejecutar script 'Hola Mundo'"
+echo "3) Ejecutar script de Saludo (con variables)"
+echo "4) Salir"
+echo "=========================================="
+
+# Evaluación de la opción seleccionada mediante la estructura 'case'
+case $opcion in
+    1)
+        echo "--- Creando árbol de directorios ---"
+        mkdir -p proyecto/{src,bin,docs,tests}
+        echo "¡Estructura de directorios creada con éxito!"
+        ls -R proyecto
+        ;;
+    2)
+        echo "--- Ejecutando Hola Mundo ---"
+        echo "Hola Mundo"
+        ;;
+    3)
+        echo "--- Script de Saludo con Variables ---"
+        nombre="Estudiante"
+        usuario_sistema=$(whoami)
+        fecha_actual=$(date +%D)
+        
+        echo "¡Hola, $nombre!"
+        echo "Estás conectado como el usuario: $usuario_sistema"
+        echo "La fecha de hoy es: $fecha_actual"
+        ;;
+    4)
+        echo "Saliendo del menú... ¡Hasta luego!"
+        ;;
+    *)
+        echo "Opción no válida."
+        ;;
+esac
+```
+
+
+https://github.com/user-attachments/assets/61400caf-38d3-4ebb-ac62-7b10360cd80d
 
 
 
