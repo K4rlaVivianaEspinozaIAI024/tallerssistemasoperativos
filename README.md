@@ -10,7 +10,7 @@
 
 ---
 
-## 📖 Introducción y Contexto Personal
+##  Introducción y Contexto Personal
 
 Bienvenido a mi repositorio de la materia **Taller de Sistemas Operativos**. 
 
@@ -29,9 +29,9 @@ Afrontar por primera vez conceptos como la **interfaz de línea de comandos (CLI
 ---
 ---
 
-## 📌 Bitácora de Clases
+## Bitácora de Clases
 
-### 📅 Clase 1: 20 de Agosto de 2026
+###  Clase 1: 20 de Agosto de 2026
 **Tema:** Navegación en el Sistema de Archivos y Control de Versiones
 
 #### Estructura de Directorios en Linux
@@ -53,7 +53,7 @@ Afrontar por primera vez conceptos como la **interfaz de línea de comandos (CLI
 
 ---
 
-### 📅 Clase 2: 27 de Agosto de 2026
+### Clase 2: 27 de Agosto de 2026
 **Tema:** Banderas de `ls`, Operadores Lógicos y Redirección
 
 #### Banderas del comando `ls`
@@ -86,7 +86,7 @@ Afrontar por primera vez conceptos como la **interfaz de línea de comandos (CLI
 
 ---
 
-### 📅 Clase 4: 15 de Septiembre de 2026
+### Clase 4: 15 de Septiembre de 2026
 **Tema:** Permisos de Archivos en Linux
 
 #### Estructura de Permisos (Octal)
@@ -106,7 +106,7 @@ Niveles: **Usuario / Grupo / Otros**
 
 ---
 
-### 📅 Clase 5: 17 de Septiembre de 2026
+### Clase 5: 17 de Septiembre de 2026
 **Tema:** Caracteres Comodín (Wildcards) y Tuberías (`|`)
 
 #### Comodines
@@ -122,7 +122,7 @@ Niveles: **Usuario / Grupo / Otros**
 
 ---
 
-### 📅 Práctica de Laboratorio (Secuencia de Comandos)
+### Práctica de Laboratorio (Secuencia de Comandos)
 
 1. `cd /` — Ir a la raíz.
 2. `cd $HOME` — Ir al directorio personal.
@@ -184,11 +184,11 @@ history
 ---
 ---
 
-### 📅 Tarea #995: Práctica e Introducción a Vim (`Vim Adventures`)
+### Tarea #995: Práctica e Introducción a Vim (`Vim Adventures`)
 
 **Descripción:** Ejercicio de aprendizaje interactivo utilizando el entorno de *Vim Adventures* para dominar la navegación y comandos avanzados de movimiento en el editor de texto `vi` / `vim`.
 
-#### 🎯 Aprendizajes Clave
+#### Aprendizajes Clave
 * **Navegación Básica:** Uso de las teclas `h`, `j`, `k`, `l` para el desplazamiento de cursor.
 * **Movimiento por Palabras:** 
   * `w`: Avanza al inicio de la siguiente palabra (*word*).
@@ -207,7 +207,7 @@ history
 
 ---
 
-### 📅 Tarea #993: Creación de Menú Interactivo y Scripts en Bash
+### Tarea #993: Creación de Menú Interactivo y Scripts en Bash
 
 **Descripción:** Desarrollo de un script en Bash que despliega un menú de opciones para ejecutar de forma organizada la creación de un árbol de directorios, un script clásico de "Hola Mundo", un saludo interactivo con variables del sistema y la opción de salida.
 
@@ -348,7 +348,7 @@ https://github.com/user-attachments/assets/61400caf-38d3-4ebb-ac62-7b10360cd80d
 <img width="971" height="856" alt="image" src="https://github.com/user-attachments/assets/d7f69918-e654-4c05-8d01-c35b1dc0872d" />
 
 ----
-### 📅 TAREA 994: Instalar Virtualbox y alguna distribucion de Linux,
+### TAREA 994: Instalar Virtualbox y alguna distribucion de Linux,
 
 <img width="1855" height="802" alt="image" src="https://github.com/user-attachments/assets/9e058e37-c315-4f0e-848c-e71dc952a559" />
 
